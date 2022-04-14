@@ -7,3 +7,6 @@
 
 - Tape file number 6 is a DUMPER saveset:  
   Saveset '"2-SYSTEM"' Fri Apr 15 11:54:20 1977
+
+- The saveset was extracted with read20, but it didn't handle the
+  DUMPER format very well.
