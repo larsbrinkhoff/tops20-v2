@@ -10,3 +10,6 @@
 
 - The saveset was extracted with read20, but it didn't handle the
   DUMPER format very well.
+
+- Richard Cornwell's SIMH installation script for TOPS-20 V3A is
+  included, but doesn't work.  Possibly due to wrong MTBOOT version.
